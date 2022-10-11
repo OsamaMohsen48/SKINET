@@ -1,7 +1,4 @@
-D:\ITI\courses\SKINET\Core\bin\Debug\netcoreapp3.1\Core.exe
 D:\ITI\courses\SKINET\Core\bin\Debug\netcoreapp3.1\Core.deps.json
-D:\ITI\courses\SKINET\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.json
-D:\ITI\courses\SKINET\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.dev.json
 D:\ITI\courses\SKINET\Core\bin\Debug\netcoreapp3.1\Core.dll
 D:\ITI\courses\SKINET\Core\bin\Debug\netcoreapp3.1\Core.pdb
 D:\ITI\courses\SKINET\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
@@ -11,4 +8,3 @@ D:\ITI\courses\SKINET\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
 D:\ITI\courses\SKINET\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
 D:\ITI\courses\SKINET\Core\obj\Debug\netcoreapp3.1\Core.dll
 D:\ITI\courses\SKINET\Core\obj\Debug\netcoreapp3.1\Core.pdb
-D:\ITI\courses\SKINET\Core\obj\Debug\netcoreapp3.1\Core.genruntimeconfig.cache
