@@ -89,3 +89,5 @@ D:\ITI\courses\SKINET\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
 D:\ITI\courses\SKINET\API\obj\Debug\netcoreapp3.1\API.dll
 D:\ITI\courses\SKINET\API\obj\Debug\netcoreapp3.1\API.pdb
 D:\ITI\courses\SKINET\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+D:\ITI\courses\SKINET\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\ITI\courses\SKINET\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
